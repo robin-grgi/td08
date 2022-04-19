@@ -215,8 +215,7 @@ void internal_free(void *ptr)
 
 /* ====================================================================== */
 
-void *internal_calloc(size_t nmemb, size_t size)
-{
+void *internal_calloc(size_t nmemb, size_t size) {
   size_t totalSize = nmemb * size;
   void *ptr = internal_malloc(totalSize);
   if (ptr){

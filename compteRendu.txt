@@ -1,3 +1,5 @@
+Ce fichier sera plus lisible via l'adresse : https://github.com/robin-grgi/td08/blob/master/compteRendu.md
+
 # TD 8 Gestion mémoire
 
 ## Question 1
